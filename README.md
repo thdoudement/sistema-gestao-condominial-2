@@ -13,11 +13,10 @@ Projeto realizado para aprendizagem de Desenvolvimento WEB e Outsystems.
 
 <br>
 
-![image](https://github.com/thdoudement/my-links/assets/110927878/08310f6c-ad32-4b8a-aeb3-73c5bef37220)
+![logo-gc](https://github.com/thdoudement/sistema-gestao-condominial-2/assets/110927878/8b55a4bd-ca54-4f56-9b52-ac0f649c9377)
 
 <br>
 
-![logo-gc](https://github.com/thdoudement/sistema-gestao-condominial-2/assets/110927878/8b55a4bd-ca54-4f56-9b52-ac0f649c9377)
 
 ## 🚀 Visão Geral
 
