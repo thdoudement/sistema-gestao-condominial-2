@@ -1,4 +1,4 @@
-<h1 align="center"> Sistema de gestão condominial - V2 </h1>
+<h1 align="center"> Sistema de gestão de condominios - V2 </h1>
 
 <p align="center">
 Projeto realizado para aprendizagem de Desenvolvimento WEB e Outsystems.
@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Funcionalidades Principais
 
-O sistema de gestão condominial é uma plataforma de software projetada para facilitar a administração eficiente de condomínios. Suas principais funcionalidades incluem controle financeiro, reservas de áreas comuns, comunicação entre moradores e administração, cadastro de moradores e visitantes, emissão de boletos, armazenamento de documentos, segurança e relatórios. Essa ferramenta visa simplificar e otimizar a gestão do condomínio, melhorando a organização, transparência e a convivência entre os moradores.
+O sistema de gestão de condominios é uma plataforma de software projetada para facilitar a administração eficiente de condomínios. Suas principais funcionalidades incluem controle financeiro, reservas de áreas comuns, comunicação entre moradores e administração, cadastro de moradores e visitantes, emissão de boletos, armazenamento de documentos, segurança e relatórios. Essa ferramenta visa simplificar e otimizar a gestão do condomínio, melhorando a organização, transparência e a convivência entre os moradores.
 
 ## ⚠️ Aviso Importante:
 
